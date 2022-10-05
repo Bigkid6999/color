@@ -1,1 +1,31 @@
-/* CSS Stylesheet */
+Body{
+    text-align:center;
+}
+
+input{
+    width: 50px;
+    height: 20px;
+}
+button{
+width: 100px;
+height: 50px;
+background-color: beige;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aliceblue;
+padding: 10px 20px;
+border-radius: 10px 10px;
+margin-left: 20px;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+}
+p{
+    font-size: 20px;
+    font-family: fantasy;
+}
+.luminace{
+    font-size: 30px;
+}
+
